@@ -1,1 +1,1 @@
-# GameS
+# Games
