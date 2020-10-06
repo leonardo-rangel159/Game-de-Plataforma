@@ -13,3 +13,5 @@ No jogo:
 - [ ] Fazer uma arte para pontos
 - [ ] Não travar quando encosta nas paredes
 - [ ] Game ouver e Win mostrar a pontuação 
+
+Arte do Crie Seus Jogos
